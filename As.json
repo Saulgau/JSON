@@ -1,0 +1,73 @@
+{
+  "name": "AI Innovationen Store",
+  "subtitle": "Ihre Quelle für modernste KI-Anwendungen",
+  "description": "Willkommen im AI Innovationen Store! Hier finden Sie eine kuratierte Auswahl der neuesten und innovativsten KI-gestützten Anwendungen.",
+  "iconURL": "https://aiinnovationen.com/store_icon.png",
+  "headerURL": "https://aiinnovationen.com/store_header.png",
+  "website": "https://aiinnovationen.com",
+  "patreonURL": "https://patreon.com/aiinnovationen",
+  "tintColor": "#4A86E8",
+  "featuredApps": [
+    "com.aiinnovationen.textanalyzer",
+    "com.aiinnovationen.imagegenerator"
+  ],
+  "apps": [
+    {
+      "name": "AI Text Analyzer",
+      "bundleIdentifier": "com.aiinnovationen.textanalyzer",
+      "developerName": "AI Innovationen GmbH",
+      "subtitle": "Fortschrittliche Textanalyse mit KI",
+      "description": "Analysieren Sie Texte mit modernsten KI-Algorithmen für Stimmung, Themen und mehr.",
+      "version": "1.2.0",
+      "versionDate": "2024-07-15",
+      "downloadURL": "https://aiinnovationen.com/downloads/textanalyzer.ipa",
+      "iconURL": "https://aiinnovationen.com/apps/textanalyzer_icon.png",
+      "tintColor": "#3498db",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://aiinnovationen.com/apps/textanalyzer_screen1.png",
+        "https://aiinnovationen.com/apps/textanalyzer_screen2.png"
+      ]
+    },
+    {
+      "name": "AI Image Generator",
+      "bundleIdentifier": "com.aiinnovationen.imagegenerator",
+      "developerName": "AI Innovationen GmbH",
+      "subtitle": "Erstellen Sie einzigartige Bilder mit KI",
+      "description": "Generieren Sie beeindruckende Bilder aus Textbeschreibungen mit unserer fortschrittlichen KI.",
+      "version": "2.0.1",
+      "versionDate": "2024-07-20",
+      "downloadURL": "https://aiinnovationen.com/downloads/imagegenerator.ipa",
+      "iconURL": "https://aiinnovationen.com/apps/imagegenerator_icon.png",
+      "tintColor": "#e74c3c",
+      "size": 25000000,
+      "screenshotURLs": [
+        "https://aiinnovationen.com/apps/imagegenerator_screen1.png",
+        "https://aiinnovationen.com/apps/imagegenerator_screen2.png",
+        "https://aiinnovationen.com/apps/imagegenerator_screen3.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Neue Version des AI Text Analyzers veröffentlicht",
+      "identifier": "textanalyzer-update-1.2.0",
+      "caption": "Version 1.2.0 bringt verbesserte Sentiment-Analyse",
+      "date": "2024-07-15T10:00:00Z",
+      "tintColor": "#3498db",
+      "imageURL": "https://aiinnovationen.com/news/textanalyzer_update.png",
+      "notify": true,
+      "url": "https://aiinnovationen.com/news/textanalyzer-1.2.0"
+    },
+    {
+      "title": "AI Image Generator jetzt mit neuen Stilen",
+      "identifier": "imagegenerator-new-styles",
+      "caption": "Entdecken Sie 10 neue KI-generierte Kunststile",
+      "date": "2024-07-20T14:30:00Z",
+      "tintColor": "#e74c3c",
+      "imageURL": "https://aiinnovationen.com/news/imagegenerator_styles.png",
+      "notify": true,
+      "url": "https://aiinnovationen.com/news/imagegenerator-new-styles"
+    }
+  ]
+}
